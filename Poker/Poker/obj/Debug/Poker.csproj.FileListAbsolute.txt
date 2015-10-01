@@ -1,0 +1,6 @@
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\bin\Debug\Poker.exe
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\bin\Debug\Poker.pdb
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\obj\Debug\Poker.exe
+c:\users\jayasree\documents\visual studio 2013\Projects\Poker\Poker\obj\Debug\Poker.pdb
