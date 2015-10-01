@@ -1,0 +1,11 @@
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\bin\Debug\StockExchangeClient.exe.config
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\bin\Debug\StockExchangeClient.exe
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\bin\Debug\StockExchangeClient.pdb
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\obj\Debug\StockExchangeClient.csprojResolveAssemblyReference.cache
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\obj\Debug\StockExchangeClient.exe
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\obj\Debug\StockExchangeClient.pdb
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jayasree\Documents\Visual Studio 2013\Projects\Midterm\StockExchangeClient\StockExchangeClient\bin\Debug\Newtonsoft.Json.xml
+D:\Learning\RestAPI\StockExchangeClient\StockExchangeClient\bin\Debug\StockExchangeClient.exe.config
+D:\Learning\RestAPI\StockExchangeClient\StockExchangeClient\obj\Debug\StockExchangeClient.exe
+D:\Learning\RestAPI\StockExchangeClient\StockExchangeClient\obj\Debug\StockExchangeClient.pdb
